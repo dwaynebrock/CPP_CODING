@@ -1,5 +1,6 @@
 #include <iostream>
 // from learncpp.com 
+// COMBINES PARAMETERS AND RETURN VALUES
 
 
 int add(int x, int y)
